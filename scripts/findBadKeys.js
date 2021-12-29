@@ -59,3 +59,4 @@ for (const name of dirs) {
 if (err) {
   process.exit(1);
 }
+}
